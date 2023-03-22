@@ -1,0 +1,28 @@
+body {
+  background-color: white;
+}
+
+main {
+  margin: 12px auto;
+  max-width: 450px;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 12px;
+}
+
+.profile {
+  background-color: rgb(222, 222, 222);
+  padding: 10px;
+}
+
+.personal_data {
+  text-align: left;
+}
+
+#profilePicture {
+  width: 175px;
+  border-radius: 50%;
+}
